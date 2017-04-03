@@ -1,0 +1,30 @@
+SCP Driver Installer 1.2.2.175 [9/8/2016 7:49:55 PM]
+
+Detected - Microsoft Windows 10 Home (6.2.9200.0 AMD64)
+Selected DEFAULT configuration.
+
+INFO    - ENTER:  DriverPackageInstallW
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - Installing INF file 'C:\Users\Vipin V\Desktop\ds4\Virtual Bus Driver\System\ScpVBus.inf' (Plug and Play).
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - Installing devices with Id "root\ScpVBus" using INF "C:\WINDOWS\System32\DriverStore\FileRepository\scpvbus.inf_amd64_21ca245c0e23d7a5\scpvbus.inf".
+INFO    - Will force install because driver is not better and force flag is set.
+INFO    - ENTER UpdateDriverForPlugAndPlayDevices...
+SUCCESS - RETURN UpdateDriverForPlugAndPlayDevices.
+INFO    - Installation was successful.
+SUCCESS - Install completed
+INFO    - RETURN: DriverPackageInstallW  (0x0)
+
+Install Succeeded. [Reboot Required]
+
+-- Install Summary --
+Bus Driver
+
+
+
+SCP Driver Installer 1.2.2.175 [9/8/2016 7:53:10 PM]
+
+Detected - Microsoft Windows 10 Home (6.2.9200.0 AMD64)
+Selected DEFAULT configuration.
+
+

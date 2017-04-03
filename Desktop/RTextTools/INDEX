@@ -1,0 +1,44 @@
+NYTimes                 a sample dataset containing labeled headlines
+                        from The New York Times.
+USCongress              a sample dataset containing labeled bills from
+                        the United State Congress.
+analytics-class         an S4 class containing the analytics for a
+                        classified set of documents.
+analytics_virgin-class
+                        an S4 class containing the analytics for a
+                        classified set of documents.
+classify_model          makes predictions from a train_model() object.
+classify_models         makes predictions from a train_models() object.
+create_analytics        creates an object of class analytics given
+                        classification results.
+create_container        creates a container for training, classifying,
+                        and analyzing documents.
+create_ensembleSummary
+                        creates a summary with ensemble coverage and
+                        precision.
+create_matrix           creates a document-term matrix to be passed
+                        into create_container().
+create_precisionRecallSummary
+                        creates a summary with precision, recall, and
+                        F1 scores.
+create_scoreSummary     creates a summary with the best label for each
+                        document.
+cross_validate          used for cross-validation of various
+                        algorithms.
+getStemLanguages        Query the languages supported in this package
+matrix_container-class
+                        an S4 class containing the training and
+                        classification matrices.
+print_algorithms        prints available algorithms for train_model()
+                        and train_models().
+read_data               reads data from files into an R data frame.
+recall_accuracy         calculates the recall accuracy of the
+                        classified data.
+summary.analytics       summarizes the 'analytics-class' class
+summary.analytics_virgin
+                        summarizes the 'analytics_virgin-class' class
+train_model             makes a model object using the specified
+                        algorithm.
+train_models            makes a model object using the specified
+                        algorithms.
+wordStem                Get the common root/stem of words

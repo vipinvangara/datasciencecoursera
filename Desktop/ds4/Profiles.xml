@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Profile Configuration Data. 12/6/2016 9:34:42 PM -->
+
+<Profile>
+  <useExclusiveMode>False</useExclusiveMode>
+  <startMinimized>False</startMinimized>
+  <formWidth>459</formWidth>
+  <formHeight>229</formHeight>
+  <Controller1>jggj</Controller1>
+  <Controller2>jggj</Controller2>
+  <Controller3>
+  </Controller3>
+  <Controller4>
+  </Controller4>
+  <LastChecked>12/6/2016 5:13:02 PM</LastChecked>
+  <CheckWhen>1</CheckWhen>
+  <Notifications>2</Notifications>
+  <DisconnectBTAtStop>False</DisconnectBTAtStop>
+  <SwipeProfiles>True</SwipeProfiles>
+  <UseDS4ForMapping>True</UseDS4ForMapping>
+  <QuickCharge>False</QuickCharge>
+  <FirstXinputPort>1</FirstXinputPort>
+  <CloseMinimizes>False</CloseMinimizes>
+  <DownloadLang>True</DownloadLang>
+  <FlashWhenLate>True</FlashWhenLate>
+  <FlashWhenLateAt>10</FlashWhenLateAt>
+  <WhiteIcon>False</WhiteIcon>
+  <CustomLed1>False:0,0,0</CustomLed1>
+  <CustomLed2>True:255,128,255</CustomLed2>
+  <CustomLed3>False:0,0,0</CustomLed3>
+  <CustomLed4>False:0,0,0</CustomLed4>
+</Profile>
